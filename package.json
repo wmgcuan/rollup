@@ -1,0 +1,23 @@
+{
+  "name": "@seahan/rollup",
+  "version": "1.0.0",
+  "description": "rollup使用",
+  "main": "src/main.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmgcuan/rollup.git"
+  },
+  "author": "ewan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmgcuan/rollup/issues"
+  },
+  "homepage": "https://github.com/wmgcuan/rollup#readme",
+  "devDependencies": {
+    "rollup": "^0.67.0"
+  }
+}
